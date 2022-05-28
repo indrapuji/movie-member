@@ -40,4 +40,4 @@ wanna try this app ?
 
 ## 📷 Pics
 
-![prompt screen](https://i.imgur.com/Eqqipy3.jpg)
+![prompt screen](https://imgur.com/a/h1lg63P.jpg) 
