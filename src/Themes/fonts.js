@@ -1,0 +1,16 @@
+export default fonts = {
+   PoppinsThin: 'Poppins-Thin',
+   PoppinsThinItalic: 'Poppins-ThinItalic',
+   PoppinsRegular: 'Poppins-Regular',
+   PoppinsItalic: 'Poppins-Italic',
+   PoppinsMedium: 'Poppins-Medium',
+   PoppinsMediumItalic: 'Poppins-MediumItalic',
+   PoppinsSemiBold: 'Poppins-SemiBold',
+   PoppinsBold: 'Poppins-Bold',
+   PoppinsBoldItalic: 'Poppins-BoldItalic',
+   RubikLight: 'Rubik-Light',
+   Rubik: 'Rubik-Regular',
+   RubikMedium: 'Rubik-Medium',
+   RubikBold: 'Rubik-Bold',
+   RubikBlack: 'Rubik-Black',
+}
